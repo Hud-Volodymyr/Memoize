@@ -1,5 +1,7 @@
 Memoization homework 
 
 Tasks:
--implement time expiration cash(done)
--implement memoize with max records count and removing least used(in progress)
+
+1)implement time expiration cash(done)
+
+2)implement memoize with max records count and removing least used(in progress)
